@@ -4,9 +4,9 @@ title: Reatom
 description: Reatom - tiny and powerful reactive system with immutable nature
 ---
 
-Reatom is quite unique in its set of features, it provides the most modern techniques for describing, executing, and debugging code in a tiny package. It opinionated data manager with strict, but flexible rules, which allows you to write simple and maintainable code.
+Reatom is quite unique in its set of features, it provides the most modern techniques for describing, executing, and debugging code in a tiny package. It is an opinionated data manager with strict but flexible rules, which allows you to write simple and maintainable code.
 
-The core package is already feature-rich and you could use it anywhere, from huge apps to even small libs, as the overhead only 2kb. Also, you could reuse our carefully written helper tools to solve complex task in a couple lines of code. We trying to build stable and balanced ecosystem for perfect DX and predictable maintains even for years ahead.
+The core package is already feature-rich and you could use it anywhere, from huge apps to even small libs, as the overhead is only 2kb. Also, you could reuse our carefully written helper tools to solve complex tasks in a couple of lines of code. We are trying to build a stable and balanced ecosystem for perfect DX and predictable maintainability even for years ahead.
 
 Main features of the core:
 
